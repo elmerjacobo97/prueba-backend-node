@@ -3,6 +3,7 @@
 Este es el readme para levantar el proyecto en desarrollo y tiene la documentación de la API.
 
 ## Repositorio
+* URL: [https://github.com/elmerjacobo97/prueba-backend-node](https://github.com/elmerjacobo97/prueba-backend-node)
 
 Antes que nada, necesitas tener acceso al repositorio donde se encuentra el proyecto. Puedes clonarlo desde la terminal de tu computadora con el siguiente comando:
 
@@ -17,7 +18,6 @@ Una vez que tienes el proyecto en tu computadora, necesitas instalar las depende
 ```
 npm install
 ```
-
 
 ## Creación de la base de datos
 
